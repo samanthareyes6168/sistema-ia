@@ -20,5 +20,8 @@ Practicar el control de versiones con Git y GitHub en un entorno de desarrollo d
 - Git
 - GitHub
 
+## Estado del proyecto
+Prototipo inicial.
+
 ## Autor
 Samantha Sthefania Reyes Reveles
