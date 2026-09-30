@@ -1,2 +1,8 @@
 def predecir(datos):
-    return "Prediccion simulada"
+    print("Procesando datos para inferencia...")
+    return {
+        "resultado": "Prediccion optimizada",
+        "datos_recibidos": datos
+    }
+
+print(predecir([10, 20, 30]))
